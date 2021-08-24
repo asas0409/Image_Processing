@@ -5,7 +5,7 @@ package Image_Processing;
 
 public class App {
     public String getGreeting() {
-        return "HelloWorld!";
+        return "Hello World!";
     }
 
     public static void main(String[] args) {
